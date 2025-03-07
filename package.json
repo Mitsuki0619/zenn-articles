@@ -1,0 +1,24 @@
+{
+  "name": "zenn-articles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "new": "npx zenn new:article",
+    "preview": "npx zenn preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitsuki0619/zenn-articles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitsuki0619/zenn-articles/issues"
+  },
+  "homepage": "https://github.com/Mitsuki0619/zenn-articles#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  }
+}
